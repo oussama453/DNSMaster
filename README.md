@@ -34,3 +34,7 @@ DNS Master is open-source! Contributions, suggestions, and bug reports are welco
 
 
 You can download the installer from the releases
+
+## License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details. 
