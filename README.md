@@ -12,6 +12,8 @@
 </div>
 <br>
 
+<h2>This project was done in Visual Studio 2022</h2>
+<h3>You can download the project and open the solution to work on it</h3>
 ## Features
 
 - Switch DNS servers with a single click
