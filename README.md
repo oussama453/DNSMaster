@@ -10,7 +10,7 @@
     <img  src="https://github.com/Salehmoradi2005/Salehmoradi2005/blob/main/DNSMaster/Artboard.jpg?raw=true" >
   </a>
 </div>
----
+<br>
 
 ## Features
 
@@ -20,6 +20,17 @@
 - Lightweight and fast with minimal system footprint
 - Open-source and fully transparent
 
----
+<br>
+
+## Contributing
+
+DNS Master is open-source! Contributions, suggestions, and bug reports are welcome.  
+
+1. Fork the repository  
+2. Create a new branch (`git checkout -b feature-name`)  
+3. Make your changes  
+4. Submit a Pull Request  
+
+
 
 DNS Master is a lightweight, open-source Windows app that lets you quickly switch DNS servers for better speed, privacy, and access to restricted sites.
