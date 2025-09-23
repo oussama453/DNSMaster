@@ -1,0 +1,32 @@
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\Data\Default.json
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\DNS Master.exe
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\icon\main.ico
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\DNS Master.deps.json
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\DNS Master.runtimeconfig.json
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\DNS Master.dll
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\DNS Master.pdb
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\System.CodeDom.dll
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\System.Management.dll
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\Wpf.Ui.dll
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\runtimes\win\lib\net8.0\System.Management.dll
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\Microsoft.Windows.SDK.NET.dll
+F:\Projects\WPFUI\bin\Release\net8.0-windows10.0.17763.0\WinRT.Runtime.dll
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.csproj.AssemblyReference.cache
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\MainWindow.g.cs
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\App.g.cs
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master_Content.g.cs
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master_MarkupCompile.cache
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master_MarkupCompile.lref
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\App.baml
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\MainWindow.baml
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.g.resources
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.AssemblyInfoInputs.cache
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.AssemblyInfo.cs
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.csproj.CoreCompileInputs.cache
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.csproj.Up2Date
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.dll
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\refint\DNS Master.dll
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.pdb
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\DNS Master.genruntimeconfig.cache
+F:\Projects\WPFUI\obj\Release\net8.0-windows10.0.17763.0\ref\DNS Master.dll

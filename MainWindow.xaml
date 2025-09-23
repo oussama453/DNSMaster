@@ -1,0 +1,52 @@
+﻿<ui:FluentWindow x:Class="WPFUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFUI"
+                 ResizeMode="NoResize"
+        xmlns:ui="http://schemas.lepo.co/wpfui/2022/xaml"
+        
+        mc:Ignorable="d"
+        Title="DNS Master" Height="300" Width="700">
+
+    <Grid>
+        <ui:TitleBar Title="DNS Master" >
+        </ui:TitleBar>
+        <WrapPanel VerticalAlignment="Center" Height="auto" Width="auto" Orientation="Horizontal" HorizontalAlignment="Center" >
+            <StackPanel HorizontalAlignment="Center" Margin="0,20,50,0">
+                <ui:TextBlock HorizontalAlignment="Center" FontFamily="JetBrains Mono ExtraBold" FontSize="24" Opacity="0.7" Text="DNS MASTER" />
+                <ui:TextBlock HorizontalAlignment="Center" Margin="10">Target Adaptor</ui:TextBlock>
+                <ComboBox Width="180" x:Name="AdaptorCombo" >
+
+                </ComboBox>
+                <ui:TextBlock HorizontalAlignment="Center" Margin="10">DNS list</ui:TextBlock>
+                <ComboBox Width="180" x:Name="ListCombo" SelectionChanged="DNSListRefresh" >
+                    <ComboBoxItem Content="Custom" IsSelected="True"/>
+                </ComboBox>
+            </StackPanel>
+
+
+
+            <StackPanel Margin="50,40,0,0">
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" >Primary :</TextBlock>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+
+                    <ui:TextBox x:Name="IN1" Width="50" TextAlignment="Center" Focusable="True" Margin="5" ClearButtonEnabled="False"  MaxLength="3" PreviewKeyDown="TextBlock_KeyDown"/>
+                    <ui:TextBox x:Name="IN2" Width="50" TextAlignment="Center" Focusable="True" Margin="5" ClearButtonEnabled="False"  MaxLength="3" PreviewKeyDown="TextBlock_KeyDown"/>
+                    <ui:TextBox x:Name="IN3" Width="50" TextAlignment="Center" Focusable="True" Margin="5" ClearButtonEnabled="False"  MaxLength="3" PreviewKeyDown="TextBlock_KeyDown"/>
+                    <ui:TextBox x:Name="IN4" Width="50" TextAlignment="Center" Focusable="True" Margin="5"  ClearButtonEnabled="False" MaxLength="3" PreviewKeyDown="TextBlock_KeyDown"/>
+                </StackPanel>
+                <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center" >Secondary :</TextBlock>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" >
+                    <ui:TextBox x:Name="SEC1" Width="50" TextAlignment="Center" Margin="5" ClearButtonEnabled="False"  MaxLength="3" PreviewKeyDown="TextBlock_KeyDown"/>
+                    <ui:TextBox x:Name="SEC2" Width="50" TextAlignment="Center" Margin="5" ClearButtonEnabled="False"  MaxLength="3" PreviewKeyDown="TextBlock_KeyDown"/>
+                    <ui:TextBox x:Name="SEC3" Width="50" TextAlignment="Center"  Margin="5" ClearButtonEnabled="False"  MaxLength="3" PreviewKeyDown="TextBlock_KeyDown"/>
+                    <ui:TextBox x:Name="SEC4" Width="50" TextAlignment="Center" Margin="5" ClearButtonEnabled="False"  MaxLength="3" PreviewKeyDown="TextBlock_KeyDown"/>
+                </StackPanel>
+                <ui:Button Content="Set DNS" x:Name="Switch" Width="auto" Height="36" Margin="10" Click="BTNSwitch" HorizontalAlignment="Center" VerticalAlignment="Center" Appearance="Secondary" />
+                <TextBlock x:Name="ERR"></TextBlock>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</ui:FluentWindow>

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "J4ky3qFKhXI=",
+  "success": true,
+  "projectFilePath": "F:\\Projects\\WPFUI\\DNS Master.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SALEH\\.nuget\\packages\\system.codedom\\9.0.0\\system.codedom.9.0.0.nupkg.sha512",
+    "C:\\Users\\SALEH\\.nuget\\packages\\system.management\\9.0.0\\system.management.9.0.0.nupkg.sha512",
+    "C:\\Users\\SALEH\\.nuget\\packages\\wpf-ui\\3.0.5\\wpf-ui.3.0.5.nupkg.sha512",
+    "C:\\Users\\SALEH\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.57\\microsoft.windows.sdk.net.ref.10.0.17763.57.nupkg.sha512"
+  ],
+  "logs": []
+}
